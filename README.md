@@ -19,4 +19,4 @@
 * Diseño básico de niveles en 3D.
 * Implementación de una interfaz de usuario simple.
 
-Es un proyecto ideal para principiantes porque enseña los conceptos fundamentales de manera práctica y visual. ¿Te gustaría que te guiara paso a paso para crear uno?
+Es un proyecto ideal para principiantes porque enseña los conceptos fundamentales de manera práctica y visual. 
